@@ -1,16 +1,12 @@
-# min_max
+# MinMax
 
-A new Flutter project.
+an app to generate a number between two numbers developed in Flutter
 
-## Getting Started
+## screenshot
+![min_max](https://github.com/merihcavdar/min_max/assets/84540989/b35c4315-20ea-4f26-88e5-9bf439daae91)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## features
+- ui layout
+- Navigator usage for transition to another page
+- Passing data between pages
+- Random().nextInt usage
